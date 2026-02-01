@@ -1,5 +1,3 @@
-# Akmal's Portfolio
-
 ## [Project 1; Gresikafe Sales Data Analysis](https://github.com/akmalrizk/gresikafe_sales_project)
 
 This is my first project when I begin my Data Analytics adventure by analysing sales from a coffee shop. This project analyses Gresikafe sales transaction data using Google BigQuery and visualises insights in Looker Studio. The goal is to uncover sales trends, best-selling products, and revenue patterns to support data-driven business decisions.
