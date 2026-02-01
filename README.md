@@ -6,5 +6,5 @@ This is my first project when I begin my Data Analytics adventure! This project 
 - Dataset was taken from [Kaggle](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training): ***Cafe Sales - Dirty Data for Cleaning Training*** by ***Ahmed Mohamed***
 - Dataset has been cleaned before doing the analysis with SQL (Big Query).
 - Dataset also has been visualised using Google Looker Studio.
-- Preview on my dashboard:
+Preview on my dashboard:
 ![Gresikafe Dashboard Preview](gresikafe_dashboard1.jpg)
